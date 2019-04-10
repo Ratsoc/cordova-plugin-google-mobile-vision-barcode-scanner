@@ -4,6 +4,7 @@ cordova-plugin-google-mobile-vision-barcode-scanner
 
 Purpose of this Project
 -----------------------
+Enable cordova / phonegap to scan barcodes using Google Mobile Vision
 
 Installation
 ------------
